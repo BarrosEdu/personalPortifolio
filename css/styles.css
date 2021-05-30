@@ -1,8 +1,17 @@
 
-body{
-  background: blue;
-}
 
 #welcome-section{
   font-weight: bold;
+}
+.btn{
+  width: auto;
+}
+#contact h1,p{
+  text-align: center;
+}
+#contact{
+  text-align: center;
+  padding: 20px;
+  background-color:gray;
+  border-radius: 10px;
 }
