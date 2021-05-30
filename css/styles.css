@@ -2,11 +2,13 @@
 
 #welcome-section{
   font-weight: bold;
+  margin-top: 20px;
+  border-radius: 10px;
 }
 .btn{
   width: auto;
 }
-#contact h1,p{
+#contact h1{
   text-align: center;
 }
 #contact{
@@ -14,4 +16,10 @@
   padding: 20px;
   background-color:gray;
   border-radius: 10px;
+}
+#footer{
+  background-color:black;
+  border-radius: 10px;
+  color: ;
+
 }
